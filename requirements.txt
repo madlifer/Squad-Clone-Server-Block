@@ -1,0 +1,17 @@
+# Squad Clone Shield Tool V5 - Dependencies
+# Install command: pip install -r requirements.txt
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Network proxy and HTTP interception
+mitmproxy>=10.1.0
+
+# System process management
+psutil>=5.9.0
+
+# HTTP request library
+requests>=2.31.0
+
+# PyInstaller for exe compilation
+pyinstaller>=6.0.0
